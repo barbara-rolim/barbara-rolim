@@ -18,7 +18,7 @@
 ![Recent Activity](https://github-readme-activity-graph.vercel.app/graph?username=barbara-rolim&theme=dracula)
 
 ## 🤝 Contributions and Community Involvement
-- [Contribution to Project Mindswap](https://github.com/Mindswap-6th-Edition-Final/final-project-be.git)
+- [Contribution to Project Mindswap](https://github.com/Mindswap-6th-Edition-Final/final-project-fe)
 
 ## Contatos:
 <div>
